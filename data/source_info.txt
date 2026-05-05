@@ -32,6 +32,3 @@ Anonymized data on ~100,000 orders made at the Olist Store in Brazil from 2016 t
 1. Download the full dataset from the Kaggle link above
 2. Place all CSV files in this `data/` folder
 3. Run the dashboard: `streamlit run dashboard/app.py`
-
-## License
-The dataset is provided under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) by Olist.
