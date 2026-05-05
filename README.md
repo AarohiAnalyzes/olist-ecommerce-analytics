@@ -81,7 +81,7 @@ The interactive dashboard includes 5 main sections:
 ✔ **Strong revenue seasonality** with peak in November 2017 (Black Friday effect)  
 ✔ **Southeast Brazil** drives the majority of customers and revenue  
 ✔ Top sellers split between **premium** and **volume** strategies: both work  
-✔ **Price vs. Review Score correlation ≈ 0** — price doesn't drive satisfaction; logistics and quality do  
+✔ **Price vs. Review Score correlation ≈ 0**. price doesn't drive satisfaction; logistics and quality do  
 
 ---
 
@@ -95,6 +95,6 @@ The interactive dashboard includes 5 main sections:
 ## 👤 Author
 
 **Aarohi Mistry**  
-M.Sc. Data Science — Università degli Studi di Milano-Bicocca
+M.Sc. Data Science | Università degli Studi di Milano-Bicocca
 
 [LinkedIn](https://linkedin.com/in/aarohi-mistry-715713219) · [GitHub](https://github.com/AarohiAnalyzes)
