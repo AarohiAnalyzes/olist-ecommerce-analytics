@@ -10,9 +10,9 @@ Interactive end-to-end business analysis of the Brazilian Olist marketplace data
 
 This project answers three core business questions:
 
-1. **Sales Performance** — How does monthly revenue evolve? Are there seasonal patterns?
-2. **Customer Geography** — Where are customers concentrated? Which states drive revenue?
-3. **Product & Seller Insights** — Which product categories dominate revenue? How do seller strategies differ? Does price drive satisfaction?
+1. **Sales Performance**: How does monthly revenue evolve? Are there seasonal patterns?
+2. **Customer Geography**: Where are customers concentrated? Which states drive revenue?
+3. **Product & Seller Insights**: Which product categories dominate revenue? How do seller strategies differ? Does price drive satisfaction?
 
 ---
 
@@ -77,10 +77,10 @@ The interactive dashboard includes 5 main sections:
 
 ## 🔍 Key Findings
 
-✔ **~R$ 13M total revenue** generated across delivered orders (Jan 2017 – Aug 2018)  
+✔ **~R$ 13M total revenue** generated across delivered orders (Jan 2017 - Aug 2018)  
 ✔ **Strong revenue seasonality** with peak in November 2017 (Black Friday effect)  
 ✔ **Southeast Brazil** drives the majority of customers and revenue  
-✔ Top sellers split between **premium** and **volume** strategies — both work  
+✔ Top sellers split between **premium** and **volume** strategies: both work  
 ✔ **Price vs. Review Score correlation ≈ 0** — price doesn't drive satisfaction; logistics and quality do  
 
 ---
